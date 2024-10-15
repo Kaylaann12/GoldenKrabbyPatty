@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/darka/Documents/Unreal Projects/PBR_Material/PBR_Material/Content/StarterContent/Materials/Test_Material.uasset",
+				"C:/Users/darka/Documents/Unreal Projects/PBR_Material/PBR_Material/Content/Untitled.umap",
+				"C:/Users/darka/OneDrive/Documents/Unreal Projects/PBR_Material/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/darka/OneDrive/Documents/Unreal Projects/PBR_Material/Content/StarterContent/Materials/Test_Material.uasset",
+				"C:/Users/darka/OneDrive/Documents/Unreal Projects/PBR_Material/Content/Untitled.umap",
+				"C:/Users/darka/OneDrive/Documents/Unreal Projects/PBR_Material/Content/StarterContent/Textures/RiverTexture.uasset"
+			]
+		}
+	]
+}
